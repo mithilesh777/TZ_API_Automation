@@ -3,11 +3,10 @@
 <suite name="DemoProject">
     <test thread-count="5" verbose="2" preserve-order="true" name="Automation demo project">
         <classes>
-            <class name="org.example.testerszone.Functional.functional_without_pojo.TZ_GetTest">
-                <methods>
-                    <include name="getSingleUser"></include>
-                </methods>
-            </class>
+            <class name="org.example.testerszone.Functional.functional_without_pojo.TZ_GetTest"/>
+            <class name="org.example.testerszone.Functional.functional_without_pojo.TZ_PostTest"/>
+            <class name="org.example.testerszone.Functional.functional_without_pojo.TZ_PutTest"/>
+            <class name="org.example.testerszone.Functional.functional_without_pojo.MockingAPITest"/>
         </classes>
     </test>
 </suite>
