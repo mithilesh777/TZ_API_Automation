@@ -1,0 +1,9 @@
+{
+  "createNewUser" : [
+    {
+      "isEnabled": true,
+      "name": "TestersZone",
+      "job": "Tester"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æš½ úÿÿÿÿ
+>
+java:S5164"#Call "remove()" on "appiumService".(¥õ¸ºþÿÿÿÿ
+8
+java:S5164"Call "remove()" on "drivers".(™—Þ‡øÿÿÿÿ
+3
+java:S5164	"Call "remove()" on "tagName".(Å€²Œ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(øÅÖõ
+F
+java:S1068"+Remove this unused "drivers" private field.(™—Þ‡øÿÿÿÿ
+L
+java:S1068"1Remove this unused "appiumService" private field.(¥õ¸ºþÿÿÿÿ
+A
+java:S1068	"+Remove this unused "tagName" private field.(Å€²Œ

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="DemoProject">
+    <test thread-count="5" verbose="2" preserve-order="true" name="Automation demo project">
+        <classes>
+            <class name="org.example.testerszone.Functional.functional_without_pojo.TZ_GetTest">
+                <methods>
+                    <include name="getSingleUser"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

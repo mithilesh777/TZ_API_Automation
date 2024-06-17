@@ -1,0 +1,27 @@
+{
+  "instructor": "Mithilesh Singh",
+  "channel": "TestersZone",
+  "expertise": "Functional and Automation",
+  "courses": {
+    "webAutomation": [
+      {
+        "courseTitle": "Selenium with java",
+        "price": "149"
+      },
+      {
+        "courseTitle": "Cypress with js",
+        "price": "149"
+      }
+    ],
+    "api": [
+      {
+        "courseTitle": "RestAssured with java",
+        "price": "51"
+      },
+      {
+        "courseTitle": "soapUI with java",
+        "price": "99"
+      }
+    ]
+  }
+}

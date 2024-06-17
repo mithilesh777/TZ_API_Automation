@@ -1,0 +1,15 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çìĞ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÂìåÏ
+@	java:S106"+Replace this use of System.out by a logger.(Óõ¬·
+C
+java:S1905"-Remove this unnecessary cast to "Object[][]".(Ä›¹Ä
+J
+java:S1611"4Remove the parentheses around the "object" parameter(Ä›¹Ä
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Ä›¹Ä
+G
+java:S1611"1Remove the parentheses around the "x$0" parameter(çìĞ
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(çìĞ
