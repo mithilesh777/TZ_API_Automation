@@ -1,0 +1,12 @@
+*.class
+/log/
+/.idea/
+/target/
+*.iml
+/.git/
+/.idea/
+*.pub
+*.DS_Store
+/test-output/
+/reports/
+*.ExtentReport.html

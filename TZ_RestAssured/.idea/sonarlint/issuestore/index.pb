@@ -27,3 +27,6 @@ C
 Ysrc/test/java/org/example/testerszone/Functional/functional_without_pojo/TZ_PostTest.java,6/d/6dc2d31d21ffd15a72fed64caf58c4bd69b7563b
 ‹
 [src/test/java/org/example/testerszone/Functional/functional_without_pojo/TZ_DeleteTest.java,8/e/8ee72af4c249e9ee6ad66437fa120ba6e6c90b0a
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
