@@ -26,8 +26,6 @@ public class TZ_PojoTest extends BaseTest {
         System.out.println(expertise);
         String instructorName = details.getInstructor();
         System.out.println(instructorName);
-
-
     }
 
 }
